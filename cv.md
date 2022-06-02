@@ -26,3 +26,10 @@ in charles. Functional testing, regression testing, smoke testing.
 Working with agile methodologies. Good knowledge of HTML, CSS.
 Experience with the Jira bug tracking system. Writing cases in testrail.
 At the moment I am learning JS
+
+2015-2019 (Study):  
+**Faculty of Information Technology**; Polotsk State University (MyTown)
+
+## English level:
+
+_Elementary_
